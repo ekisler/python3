@@ -1,0 +1,76 @@
+# Fundamentos de Python3
+
+Este repositorio ofrece una guía completa para principiantes que deseen aprender los fundamentos de Python  3. Desde la instalación hasta la sintaxis básica, se cubren temas esenciales para comenzar a programar con este popular lenguaje.
+
+## Tabla de Contenidos
+- [Introducción](#introducción)
+- [Instalación](#instalación)
+- [Sintaxis Básica](#sintaxis-básica)
+- [Variables y Tipos de Datos](#variables-y-tipos-de-datos)
+- [Operadores](#operadores)
+- [Control de Flujo](#control-de-flujo)
+- [Funciones](#funciones)
+- [Programación Orientada a Objetos](#programación-orientada-a-objetos)
+- [Ejemplos Prácticos](#ejemplos-prácticos)
+- [Contribuir](#contribuir)
+- [Licencia](#licencia)
+
+## Introducción
+
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Es conocido por su legibilidad y simplicidad, lo que lo convierte en un excelente lenguaje para principiantes. Este repositorio es un punto de partida para aquellos que buscan familiarizarse con Python.
+
+## Instalación
+
+Antes de poder empezar a programar con Python, necesitas instalarlo en tu computadora. Puedes descargar Python desde la [página oficial de Python](https://www.python.org/). Asegúrate de seleccionar la opción de "Add Python to PATH" durante la instalación para facilitar el uso de Python desde la línea de comandos.
+
+## Sintaxis Básica
+
+La sintaxis de Python es limpia y fácil de entender. Aquí tienes algunos ejemplos de la sintaxis básica:
+
+
+## Variables y Tipos de Datos
+
+Python tiene varios tipos de datos incorporados. Algunos de los más comunes son:
+
+- Enteros (`int`)
+- Flotantes (`float`)
+- Cadenas (`str`)
+- Booleanos (`bool`)
+
+Un ejemplo de definición de variables:
+
+
+## Operadores
+
+Python tiene operadores aritméticos, de comparación, lógicos y más. Aquí hay algunos ejemplos:
+
+
+## Control de Flujo
+
+El control de flujo en Python permite tomar decisiones y repetir acciones. Los principales constructores de control de flujo son `if`, `elif`, `else`, `for` y `while`.
+
+
+## Funciones
+
+Las funciones son bloques de código reutilizables que realizan una tarea específica. Aquí tienes un ejemplo de función:
+
+
+## Programación Orientada a Objetos
+
+Python soporta la programación orientada a objetos (POO), lo que permite organizar el código en clases y objetos.
+
+def arrancar(self):
+    print(f"El coche {self.marca} modelo {self.modelo} está arrancando.")
+
+
+## Ejemplos Prácticos
+
+En este repositorio encontrarás ejemplos prácticos que ilustran cómo usar los conceptos aprendidos. Estos ejemplos están diseñados para ser fáciles de entender y modificar.
+
+## Contribuir
+
+Si estás interesado en mejorar este repositorio, ¡te animamos a hacerlo! Puedes enviar un pull request con tus mejoras o reportar problemas que encuentres.
+
+## Licencia
+
+Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
